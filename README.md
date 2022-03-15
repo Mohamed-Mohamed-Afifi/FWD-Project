@@ -25,4 +25,4 @@ In this project, a dynamic navigation bar is required corresponding to sections 
 
 ### Developer
 
-**[Youssef Rabei](https://github.com/YoussefRabeii)**
+**[Mohamed Afifi](https://github.com/Mohamed-Mohamed-Afifi)**
