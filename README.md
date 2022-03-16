@@ -24,5 +24,5 @@ In this project, a dynamic navigation bar is required corresponding to sections 
 - Back to the top button appears when the user scroll > 500px.
 
 ### Developer
-
+..
 **[Mohamed Afifi](https://github.com/Mohamed-Mohamed-Afifi)**
